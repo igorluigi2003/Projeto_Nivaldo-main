@@ -211,6 +211,11 @@ section {
   scroll-margin-top: 70px;
 }
 
+.icon {
+  width: 24px; /* Largura desejada */
+  height: 24px; /* Altura desejada */
+}
+
 /*--------------------------------------------------------------
 # Desktop Navigation 
 --------------------------------------------------------------*/
